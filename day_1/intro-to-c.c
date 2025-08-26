@@ -1,3 +1,7 @@
-we need programming language instead of 0 and 1 because it's stressful and prone to error
+#include <stdio.h>
 
-B. there are a lot reasons engineers learn c and part of it is the speed, accessibility ,light weight and learning other languages becomes easier
+int main (void) {
+	printf("my name is Lasisi Amod Olawunmi\n");
+	printf ("i'm an electrical and electronics engineering student\n");
+	return 0;
+}
